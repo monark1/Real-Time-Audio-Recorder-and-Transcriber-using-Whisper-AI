@@ -3,6 +3,7 @@ openai-whisper
 logging
 numpy<2
 torch
+pyannote.audio
 pyaudio
 ttkbootstrap
 librosa
